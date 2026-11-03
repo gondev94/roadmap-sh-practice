@@ -120,3 +120,11 @@ Tres funciones de JavaScript que convierten y formatean temperaturas. `celciusTo
 - `JAVASCRIPT/js-temperature-converter.js` — las tres funciones.
 
 Proyecto: [JS Temperature Converter](https://roadmap.sh/projects/js-temperature-converter)
+
+## Controlador de números
+
+Seis funciones de JavaScript que verifican los valóres numéricos en `isPositive` , `isNegative`, `isZero`, `isEven`, `isOdd`, `describeNumber`
+
+- `JAVASCRIPT/js-number-checker.js` - las seis funciones.
+
+Proyecto: [JS Number Checker](https://roadmap.sh/projects/js-number-checker)
