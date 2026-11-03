@@ -112,3 +112,11 @@ Tres funciones de JavaScript que arman un saludo. `formatName` une nombre y apel
 - `JAVASCRIPT/greetingBuilder.js` — las tres funciones.
 
 Proyecto: [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder)
+
+## Conversor de temperatura
+
+Tres funciones de JavaScript que convierten y formatean temperaturas. `celciusToFahrenheit` pasa de Celsius a Fahrenheit, `fahrenheitToCelcius` hace el cambio inverso y `formatTemperature` devuelve el valor con el símbolo de grados y la unidad.
+
+- `JAVASCRIPT/js-temperature-converter.js` — las tres funciones.
+
+Proyecto: [JS Temperature Converter](https://roadmap.sh/projects/js-temperature-converter)
