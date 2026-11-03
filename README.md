@@ -103,3 +103,12 @@ Archivos:
 Proyecto: [Photo Showcase](https://roadmap.sh/projects/photo-showcase)
 
 [github.com/gondev94/roadmap.sh-practice](https://github.com/gondev94/roadmap.sh-practice)
+
+
+## Greeting Builder
+
+Tres funciones de JavaScript que arman un saludo. `formatName` une nombre y apellido, `getGreeting` elige el saludo según el momento del día y `createGreeting` usa las dos y devuelve la frase completa.
+
+- `JAVASCRIPT/greetingBuilder.js` — las tres funciones.
+
+Proyecto: [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder)
