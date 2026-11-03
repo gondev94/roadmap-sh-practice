@@ -102,7 +102,7 @@ Archivos:
 
 Proyecto: [Photo Showcase](https://roadmap.sh/projects/photo-showcase)
 
-[github.com/gondev94/roadmap.sh-practice](https://github.com/gondev94/roadmap.sh-practice)
+[github.com/gondev94/roadmap-sh-practice](https://github.com/gondev94/roadmap-sh-practice)
 
 
 ## Greeting Builder
