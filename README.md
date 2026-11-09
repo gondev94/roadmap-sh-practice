@@ -128,3 +128,12 @@ Seis funciones de JavaScript que verifican los valóres numéricos en `isPositiv
 - `JAVASCRIPT/js-number-checker.js` - las seis funciones.
 
 Proyecto: [JS Number Checker](https://roadmap.sh/projects/js-number-checker)
+
+
+## Formateador de cadenas
+
+Tres funciones de JavaScript que limpian y presentan un nombre. `cleanText` quita los espacios de los extremos, `capitalize` deja la primera letra en mayúscula y el resto en minúscula, y `formatDisplayName` usa las dos para devolver nombre y apellido listos para mostrar.
+
+- `JAVASCRIPT/js-string-formatter.js` - las tres funciones
+
+Proyecto: [JS Sstring Formatter](https://roadmap.sh/projects/js-string-formatter)
