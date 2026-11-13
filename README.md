@@ -137,3 +137,90 @@ Tres funciones de JavaScript que limpian y presentan un nombre. `cleanText` quit
 - `JAVASCRIPT/js-string-formatter.js` - las tres funciones
 
 Proyecto: [JS Sstring Formatter](https://roadmap.sh/projects/js-string-formatter)
+
+## Calculadora de precios
+
+Cuatro funciones de JavaScript que calculan `calculateSubTotal` retorna precio * cantidad, `calculateDiscount` aplica un descuento y `createCartSummary` que devuelve el total de items por descuento y tax.
+
+- `JAVASCRIPT/js-cart-total-calculator.js` - las cuatro funciones
+
+
+## Resumen de gastos
+
+Cuatro funciones de JavaScript que resumen una lista de gastos. `calculateTotal` suma todos los importes, `calculateCategoryTotal` suma solo una categoría, `findLargestExpense` devuelve el gasto más alto y `createExpenseSummary` arma un objeto con el total, los totales por categoría y el gasto más grande.
+
+- `JAVASCRIPT/js-expense-summary.js` — las cuatro funciones.
+
+Proyecto: [JS Expense Summary](https://roadmap.sh/projects/js-expense-summary)
+
+## Informe de calificaciones
+
+Cuatro funciones de JavaScript que convierten un puntaje en un informe. `getLetterGrade` pasa el número a A, B, C, D o F, `hasPassed` comprueba si llega a 60, `getFeedBack` elige el mensaje según la letra y `createGradeReport` devuelve nombre, nota, mensaje y si aprobó.
+
+- `JAVASCRIPT/js-grade-report-generator.js` — las cuatro funciones.
+
+Proyecto: [JS Grade Report Generator](https://roadmap.sh/projects/js-grade-report-generator)
+
+## Normalizador de respuestas JSON
+
+Tres funciones de JavaScript que dejan una respuesta de API lista para mostrar. `getPublishedArticles` se queda con los artículos publicados, `toArticleSummary` saca id, título, autor y vistas, y `normalizeArticles` aplica las dos y devuelve la lista resumida.
+
+- `JAVASCRIPT/js-json-response-normalizer.js` — las tres funciones.
+
+Proyecto: [JS JSON Response Normalizer](https://roadmap.sh/projects/js-json-response-normalizer)
+
+## Ayudante de estado de pedidos
+
+Cinco funciones de JavaScript que leen un pedido. `isPaid` y `hasShipped` miran el pago y el envío, `getDeliveryMessage` arma la frase con la fecha estimada, `needsAttention` marca el pedido si falta pagar o enviar, y `createOrderSummary` junta id, cliente, cantidades y ese estado.
+
+- `JAVASCRIPT/js-order-status-helper.js` — las cinco funciones.
+
+Proyecto: [JS Order Status Helper](https://roadmap.sh/projects/js-order-status-helper)
+
+## Validador de contraseñas
+
+Cinco funciones de JavaScript que revisan una contraseña. `hasMinimumLength` pide al menos 8 caracteres, `hasNumber` busca un dígito, `hasUppercaseLetter` busca una mayúscula, `getFailedRules` lista las reglas que fallan y `validatePassword` devuelve si es válida y cuáles fallaron.
+
+- `JAVASCRIPT/js-password-rule-checker.js` — las cinco funciones.
+
+Proyecto: [JS Password Rule Checker](https://roadmap.sh/projects/js-password-rule-checker)
+
+## Calculadora de precio
+
+Cuatro funciones de JavaScript que calculan el precio final. `calculateDiscount` saca el descuento, `calculateTax` calcula el impuesto sobre el precio ya descontado, `calculateFinalPrice` resta el descuento y suma el impuesto, y `createPriceSummary` devuelve la frase con el precio a dos decimales.
+
+- `JAVASCRIPT/js-price-calculator.js` — las cuatro funciones.
+
+Proyecto: [JS Price Calculator](https://roadmap.sh/projects/js-price-calculator)
+
+## Búsqueda y filtro de productos
+
+Cinco funciones de JavaScript que recorren un catálogo. `filterByCategory` filtra por categoría, `filterByMaxPrice` deja los que no superan un precio, `getInStockProducts` se queda con los que tienen stock, `findProductById` busca uno por id y `searchProducts` compara el nombre sin distinguir mayúsculas. Si la lista no es un array, los filtros devuelven `[]` y la búsqueda por id devuelve `null`.
+
+- `JAVASCRIPT/js-product-search-and-filter.js` — las cinco funciones.
+
+Proyecto: [JS Product Search and Filter](https://roadmap.sh/projects/js-product-search-and-filter)
+
+## Calculadora de puntaje de quiz
+
+Cinco funciones de JavaScript que corrigen un quiz. `isAnswerCorrect` compara una respuesta, `countCorrectAnswers` cuenta los aciertos, `calculatePercentage` pasa ese conteo a porcentaje, `getResultMessage` aprueba desde 70 y `createQuizResult` devuelve el porcentaje y el mensaje.
+
+- `JAVASCRIPT/js-quiz-score-calculator.js` — las cinco funciones.
+
+Proyecto: [JS Quiz Score Calculator](https://roadmap.sh/projects/js-quiz-score-calculator)
+
+## Utilidades de lista de tareas
+
+Diez funciones de JavaScript para una lista de tareas. `addTask` agrega una pendiente, `completeTask` la marca hecha, `removeTask` la saca, `findTask` la busca por id y `filterTasks` separa por estado. `countIncompleteTasks` y `countCompletedTasks` cuentan cada grupo. `saveTasks` y `loadTasks` guardan y leen la lista en `localStorage`. `displayTasks` pinta los títulos en el elemento `task-list`.
+
+- `JAVASCRIPT/js-task-list-utilities.js` — las diez funciones.
+
+Proyecto: [JS Task List Utilities](https://roadmap.sh/projects/js-task-list-utilities)
+
+## Formateador de perfil de usuario
+
+Cinco funciones de JavaScript que arman el texto de un perfil. `getDisplayName` une nombre y apellido, `getLocation` junta ciudad y país, `getContactSummary` junta correo y teléfono, `isAccountActive` dice si la cuenta está activa y `createProfileSummary` devuelve el bloque con los cuatro datos.
+
+- `JAVASCRIPT/js-user-profile-formatter.js` — las cinco funciones.
+
+Proyecto: [JS User Profile Formatter](https://roadmap.sh/projects/js-user-profile-formatter)
