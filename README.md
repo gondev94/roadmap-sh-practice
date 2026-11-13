@@ -136,13 +136,15 @@ Tres funciones de JavaScript que limpian y presentan un nombre. `cleanText` quit
 
 - `JAVASCRIPT/js-string-formatter.js` - las tres funciones
 
-Proyecto: [JS Sstring Formatter](https://roadmap.sh/projects/js-string-formatter)
+Proyecto: [JS String Formatter](https://roadmap.sh/projects/js-string-formatter)
 
 ## Calculadora de precios
 
 Cuatro funciones de JavaScript que calculan `calculateSubTotal` retorna precio * cantidad, `calculateDiscount` aplica un descuento y `createCartSummary` que devuelve el total de items por descuento y tax.
 
 - `JAVASCRIPT/js-cart-total-calculator.js` - las cuatro funciones
+
+Proyecto: [JS Cart Total Calculator](https://roadmap.sh/projects/js-cart-total-calculator)
 
 
 ## Resumen de gastos
